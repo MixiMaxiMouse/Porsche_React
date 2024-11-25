@@ -23,3 +23,11 @@ body {
   flex-wrap: wrap;
   gap: 20px;
 }
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
